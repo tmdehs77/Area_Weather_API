@@ -1,0 +1,31 @@
+.title{
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+}
+
+.area{
+    text-align:center;
+}
+
+button:hover{
+    cursor:pointer;
+    background-color:white;
+}
+
+button{
+    width:130px;
+    height:35px;
+    font-size:larger;
+    font-weight:bolder;
+    background-color:rgb(67, 234, 234);
+    border-radius:10px;
+}
+
+.weather_info{
+    text-align:center;
+}
+
+#weather_state, #weather_temp{
+    font-size:20px;
+}
